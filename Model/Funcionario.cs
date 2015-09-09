@@ -8,16 +8,24 @@ namespace Models
 {
     public class Funcionario :Basic
     {
-        
+
+        #region "constructor"
         public Funcionario()
         {
             blnTemDependentes = false;
             Dependentes = new List<Dependente>();
+            Documentos = new List<Documento>();
         }
+        #endregion
 
+        #region "local variables"
         bool blnTemDependentes;
-        public GradeCargo Cargo  { get; set; }
+        #endregion
 
+        #region "properties"
+        public GradeCargo Cargo { get; set; }
+        public enumEstadoCivil EstadoCivil { get; set; }
+        public DateTime DataNascimento { get; set; }
         public List<Dependente> Dependentes { get; set; }
         public bool TemDependentes 
         { 
@@ -42,8 +50,8 @@ namespace Models
                 return Dependentes.Count;
             }
         } 
+        public List<Documento> Documentos { get; set; }
+        #endregion
   
-        public enumEstadoCivil EstadoCivil { get; set; }
-        public DateTime DataNascimento { get; set; }
     }
 }

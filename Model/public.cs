@@ -16,3 +16,12 @@ public enum enumEstadoCivil
     DIVORCIADO,
     VIUVO
 }
+
+
+public enum enumTipoDocumento
+{
+    RG,
+    CPF,
+    OUTRO
+}
+
