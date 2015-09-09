@@ -41,6 +41,9 @@ namespace Models
             {
                 return Dependentes.Count;
             }
-        }   
+        } 
+  
+        public enumEstadoCivil EstadoCivil { get; set; }
+        public DateTime DataNascimento { get; set; }
     }
 }
