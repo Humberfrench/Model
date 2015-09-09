@@ -1,0 +1,5 @@
+c:\users\humberto.almeida\documents\visual studio 2013\Projects\Model\Model\bin\Debug\Models.dll
+c:\users\humberto.almeida\documents\visual studio 2013\Projects\Model\Model\bin\Debug\Models.pdb
+c:\users\humberto.almeida\documents\visual studio 2013\Projects\Model\Model\obj\Debug\Models.dll
+c:\users\humberto.almeida\documents\visual studio 2013\Projects\Model\Model\obj\Debug\Models.pdb
+C:\Users\humberto.almeida\Documents\Visual Studio 2013\Projects\Model\Model\obj\Debug\Models.csprojResolveAssemblyReference.cache
