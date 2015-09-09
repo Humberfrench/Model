@@ -25,3 +25,8 @@ public enum enumTipoDocumento
     OUTRO
 }
 
+public enum enumSexo
+{
+    MASCULINO,
+    FEMININO
+}

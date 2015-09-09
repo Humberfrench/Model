@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Models
 {
-    public class Dependente
+    public class Dependente : Basic
     {
+
+        public DateTime DataNascimento { get; set; }
+
     }
 }
