@@ -10,6 +10,7 @@ namespace Models
     {
 
         public DateTime DataNascimento { get; set; }
+        public enumGrauParentesco GrauParentesco { get; set; }
 
     }
 }

@@ -30,3 +30,12 @@ public enum enumSexo
     MASCULINO,
     FEMININO
 }
+
+public enum enumGrauParentesco
+{
+    FILHO,
+    CONJUGE,
+    PAIS,
+    SOGROS,
+    OUTROS
+}
