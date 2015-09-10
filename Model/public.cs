@@ -7,7 +7,6 @@
     MENSAL
 }
 
-
 public enum enumEstadoCivil
 {
     SOLTEIRO,
@@ -16,7 +15,6 @@ public enum enumEstadoCivil
     DIVORCIADO,
     VIUVO
 }
-
 
 public enum enumTipoDocumento
 {
