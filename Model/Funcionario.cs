@@ -23,6 +23,7 @@ namespace Models
         #endregion
 
         #region "properties"
+        public string NomeSocial { get; set; }
         public GradeCargo Cargo { get; set; }
         public enumEstadoCivil EstadoCivil { get; set; }
         public DateTime DataNascimento { get; set; }
