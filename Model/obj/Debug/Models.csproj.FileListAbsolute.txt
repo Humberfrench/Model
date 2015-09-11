@@ -3,5 +3,3 @@ c:\users\humberto.almeida\documents\visual studio 2013\Projects\Model\Model\bin\
 c:\users\humberto.almeida\documents\visual studio 2013\Projects\Model\Model\obj\Debug\Models.dll
 c:\users\humberto.almeida\documents\visual studio 2013\Projects\Model\Model\obj\Debug\Models.pdb
 C:\Users\humberto.almeida\Documents\Visual Studio 2013\Projects\Model\Model\obj\Debug\Models.csprojResolveAssemblyReference.cache
-C:\Users\humberto.almeida\Documents\Visual Studio 2013\Projects\Model\Model\bin\Debug\Models.dll.CodeAnalysisLog.xml
-C:\Users\humberto.almeida\Documents\Visual Studio 2013\Projects\Model\Model\bin\Debug\Models.dll.lastcodeanalysissucceeded
