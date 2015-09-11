@@ -43,9 +43,11 @@
   <ItemGroup>
     <Compile Include="Basic.cs" />
     <Compile Include="Cargo.cs" />
+    <Compile Include="Cidade.cs" />
     <Compile Include="Dependente.cs" />
     <Compile Include="Documento.cs" />
     <Compile Include="Empresa.cs" />
+    <Compile Include="Estado.cs" />
     <Compile Include="Extends.cs" />
     <Compile Include="Funcionario.cs" />
     <Compile Include="GradeCargo.cs" />
