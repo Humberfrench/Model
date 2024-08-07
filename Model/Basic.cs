@@ -2,7 +2,6 @@
 
 namespace Models
 {
-    [MetadataType(typeof(Basic))]
     public class Basic
     {
         public int Codigo { get; set; }
